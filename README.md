@@ -1,7 +1,7 @@
-# Simple Weather App Tutorial (file:///C:/Users/Sumit%20Yadav/Downloads/Weather-App-Project/index.html)
+# Simple Weather App Tutorial 
 
 ![image](https://github.com/user-attachments/assets/210291bb-20ef-4af7-9e6f-a92e17f15019)
-
+link- (file:///C:/Users/Sumit%20Yadav/Downloads/Weather-App-Project/index.html)
 A beautiful, modern weather app built with HTML, CSS, and JavaScript.
 
 - 🌎 Instantly search for any country, state, or city worldwide and get the current weather.
