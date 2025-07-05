@@ -1,11 +1,15 @@
 # Simple Weather App Tutorial
 
-<p align="left">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+A beautiful, modern weather app built with HTML, CSS, and JavaScript.
 
-Simple weather app using HTML, CSS, and JavaScript
+- 🌎 Instantly search for any country, state, or city worldwide and get the current weather.
+- 🔍 Autocomplete suggestions for fast, accurate location search.
+- 🌸 Stunning fixed cherry blossom background for a visually appealing experience.
+- 🌡️ Toggle between Celsius and Fahrenheit.
+- ⚡ Responsive, user-friendly, and robust—never be disappointed by a "not found" result!
 
-![image](https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c.png)
+![screenshot](screenshot.png)
 
+---
+
+This project demonstrates advanced UI/UX, API integration, and global weather search using the OpenWeatherMap API.
