@@ -1,6 +1,6 @@
-# Simple Weather App Tutorial
+# Simple Weather App Tutorial (file:///C:/Users/Sumit%20Yadav/Downloads/Weather-App-Project/index.html)
 
-Link- file:///C:/Users/Sumit%20Yadav/Downloads/Weather-App-Project/index.html
+![image](https://github.com/user-attachments/assets/210291bb-20ef-4af7-9e6f-a92e17f15019)
 
 A beautiful, modern weather app built with HTML, CSS, and JavaScript.
 
@@ -10,7 +10,6 @@ A beautiful, modern weather app built with HTML, CSS, and JavaScript.
 - 🌡️ Toggle between Celsius and Fahrenheit.
 - ⚡ Responsive, user-friendly, and robust—never be disappointed by a "not found" result!
 
-![image](https://github.com/user-attachments/assets/210291bb-20ef-4af7-9e6f-a92e17f15019)
----
+
 
 This project demonstrates advanced UI/UX, API integration, and global weather search using the OpenWeatherMap API.
