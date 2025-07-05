@@ -8,7 +8,7 @@ A beautiful, modern weather app built with HTML, CSS, and JavaScript.
 - 🌡️ Toggle between Celsius and Fahrenheit.
 - ⚡ Responsive, user-friendly, and robust—never be disappointed by a "not found" result!
 
-![screenshot](https://your-image-link.com/your-screenshot.png)
+[![screenshot](https://i.ibb.co/VpHGDyNZ/Screenshot-2025-07-05-133333.png)](https://ibb.co/k63T0nyf)
 
 ---
 
